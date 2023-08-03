@@ -211,6 +211,21 @@ main h1 {
     font-size: x-large;
 }
 
+.Estatictic-paragraph h2 {
+    color: rgb(103, 20, 205);
+}
+
+.StPList ul {
+    padding: 0%;
+    font-size: x-large;
+    
+
+}
+
+.StPList a {
+    color: rgb(0, 0, 0);
+}
+
 .Contacto {
     display: flex;
     justify-content: space-around;
