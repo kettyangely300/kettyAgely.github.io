@@ -19,7 +19,7 @@ Entre 6-11 años: 26,86% Secuestro extorsivo: 37,96%
 Zonas urbanas: 69,63% Secuestro simple: 54,52%
 Zonas rurales: 29,89%
 
-Departamentos:
+const Departamentos:
 Medellín: 3,60%
 Bogotá: 8,90%
 Villavicencio: 3,505
@@ -28,7 +28,7 @@ Bucaramanga: 2,40%
 Cartagena: 2,30%
 Barranquilla: 1,70%
 
-Feminicidios
+const Feminicidios
 En Colombia durante el 2019 se presentaron un total de
 casos de 665, en 2020 un total de 571, en 2021 un total
 de 612 y en lo que va del 2023 se han reportado en el
@@ -42,7 +42,7 @@ Entre 26-36 años: 27,9%
 Entre 37-45 años: 26,7%
 Entre 46-60 años: 8,4%
 
-Casos registrados en:
+const Casos registrados en:
 Viviendas: 93,7%
 Moteles y hoteles: 5,5%
 Fincas: 0,6%
@@ -50,7 +50,7 @@ Fincas: 0,6%
 El 43,5% fueron realizados por sus parejas
 El 21,1% fueron por sus exparejas.
 
-Homicidios
+const Homicidios
 En Colombia se registraron un total de 13.709 homicidios
 intencionales y violentos siendo un 25,1%. La tasa de
 homicidios además se ubica en un 26,8 por cada 100.000
@@ -72,7 +72,7 @@ Entre 4-9 años: 17%
 Entre 10-14 años: 8%
 Entre 15-17 años: 38%
 
-Prostitución
+const Prostitución
 En Colombia el 15% de casos son menores de edad
 El 92,4% de casos escogieron esta actividad por su
 situación económica
@@ -87,7 +87,7 @@ Medellín: 68%
 Itaguí y bello: 18%
 Envigado y Girardota: 14%
 
-Trata de personas
+const Trata de personas
 En Colombia se han registrado 628 casos de los cuales:
 El 82% son mujeres
 El 18% son hombres
@@ -95,12 +95,12 @@ Entre los 18-30 años: 55%
 Entre los 31-50 años: 22%
 Niños, niñas y adolescentes: 12%
 
-Con finalidades como:
+const Con finalidades como:
 Explotación sexual: 408 casos
 Trabajos forzados: 134 casos
 Matrimonio servil: 48 casos
 
-Explotación sexual
+const Explotación sexual
 Nueve de cada 10 mujeres reportan haber sido abusadas
 en su adolescencia siendo el abusador alguien conocido
 El 90% de los casos son niñas
