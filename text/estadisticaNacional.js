@@ -5,7 +5,115 @@ const suicidios = 'Suicidios por acoso: Para el año 2022 se presentó 24.615 ca
 const explotacion_sex = 'Explotación sexual: Medicina Legal reveló que cerca de 11.441 niños han sido víctimas de violencia infantil en 2023. La entidad precisa que el abuso sexual registra más casos (6.007).';
 const venta_de_organos = 'Venta de órganos: Anualmente se realizan más de 150,000 trasplantes en todo el mundo, sin embargo, esto es menos del 10% de la necesidad mundial.';
 const prostitucion = 'Prostitución infantil: 
-const trata = 'Trata de blanca:
+const trata = 'Trata de blanca: Secuestro:
+En Colombia se ha registrado aproximadamente un 27%
+de secuestros de lo equivalente a su población, sus
+principales víctimas (adultas) son agricultores, ganaderos,
+comerciantes y funcionarios públicos; gran parte de estos
+casos se les atribuyen a grupos armados ilegales y
+delincuentes comunes. Cabe destacar que en los niños y
+jóvenes se aproximan 3.400 casos.
+Entre 18-22 años: 0,17% Masculino: 49,77%
+Entre 12-17 años: 31,95% Femenino: 50,23%
+Entre 6-11 años: 26,86% Secuestro extorsivo: 37,96%
+Zonas urbanas: 69,63% Secuestro simple: 54,52%
+Zonas rurales: 29,89%
+
+Departamentos:
+Medellín: 3,60%
+Bogotá: 8,90%
+Villavicencio: 3,505
+Santa Marta: 3,40%
+Bucaramanga: 2,40%
+Cartagena: 2,30%
+Barranquilla: 1,70%
+
+Feminicidios
+En Colombia durante el 2019 se presentaron un total de
+casos de 665, en 2020 un total de 571, en 2021 un total
+de 612 y en lo que va del 2023 se han reportado en el
+sistema de alerta 33.711 y representan el 18,2%
+32% de casos ocurrieron en espacios privados
+13% fueron asesinadas por parejas o exparejas
+Entre 5-12 años: 5,5%
+Entre 13-18 años: 11,1%
+Entre 19-25 años: 16,6%
+Entre 26-36 años: 27,9%
+Entre 37-45 años: 26,7%
+Entre 46-60 años: 8,4%
+
+Casos registrados en:
+Viviendas: 93,7%
+Moteles y hoteles: 5,5%
+Fincas: 0,6%
+
+El 43,5% fueron realizados por sus parejas
+El 21,1% fueron por sus exparejas.
+
+Homicidios
+En Colombia se registraron un total de 13.709 homicidios
+intencionales y violentos siendo un 25,1%. La tasa de
+homicidios además se ubica en un 26,8 por cada 100.000
+habitantes, Cali por ejemplo se ubica con la mayor tasa de
+casos 1.514 en total, Bogotá con 1.126, Medellín con
+585.
+Casos en zonas rurales: 5.050 casos
+Zonas Urbanas: 5.659
+Total de datos que fueron Sicariato: 8.095
+Con pistola de fuego: 10.361
+Armas blancas: 2.650
+Explosivos: 58
+Mujeres: 19,5%
+Hombres: 9,92%
+
+Niñas: 52%
+Niños: 34%
+Entre 4-9 años: 17%
+Entre 10-14 años: 8%
+Entre 15-17 años: 38%
+
+Prostitución
+En Colombia el 15% de casos son menores de edad
+El 92,4% de casos escogieron esta actividad por su
+situación económica
+El 60% solo reciben entre 25.000 y 50.000 pesos
+colombianos por cliente
+El 37,1 de mujeres son extranjeras y pertenecen a
+Venezuela
+El 50,3% son mujeres entre los 18-25 años de edad
+El 2,1% son Transgénero
+El 17,1% registro sentirse forzada a realizar esta actividad
+Medellín: 68%
+Itaguí y bello: 18%
+Envigado y Girardota: 14%
+
+Trata de personas
+En Colombia se han registrado 628 casos de los cuales:
+El 82% son mujeres
+El 18% son hombres
+Entre los 18-30 años: 55%
+Entre los 31-50 años: 22%
+Niños, niñas y adolescentes: 12%
+
+Con finalidades como:
+Explotación sexual: 408 casos
+Trabajos forzados: 134 casos
+Matrimonio servil: 48 casos
+
+Explotación sexual
+Nueve de cada 10 mujeres reportan haber sido abusadas
+en su adolescencia siendo el abusador alguien conocido
+El 90% de los casos son niñas
+El 79% involucra niñas y niños entre los 3 y 13 años de
+edad
+Se han reportado 48.017 casos de los cuales:
+El 60% son material de abuso sexual
+El 7% son ciberacoso
+El 1% explotación sexual comercial
+Bogotá: 15,9%
+Antioquia: 14,5%
+Caldas: 11%
+Valle del cauca: 9.2%
 const paragraph = document.getElementById('myParagraph');
 paragraph.textContent = secuestro;
 
