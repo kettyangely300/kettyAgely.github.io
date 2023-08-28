@@ -318,6 +318,13 @@ footer {
     width: 40%; 
 }
 
+.Mascota {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+
 /*#contactItemsSocialNetwork nav ul {
     padding-left: 35%;
     
