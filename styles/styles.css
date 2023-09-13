@@ -234,6 +234,11 @@ main h1 {
     color: rgb(103, 20, 205);
 }
 
+.Container {
+	border: solid 1 px rgb(103, 20, 205);
+}
+
+
 .StPList ul {
     padding: 0%;
     font-size: x-large;
