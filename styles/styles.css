@@ -240,6 +240,9 @@ main h1 {
 	justify-content: center;
 }
 
+table {
+	font-size: larger;
+}
 
 .StPList ul {
     padding: 0%;
@@ -445,6 +448,10 @@ footer {
         width: 90vw;
         height: 25vh;
     }
+
+	table {
+	font-size: small;
+	}
 
     .Contacto {
         display: flex;
