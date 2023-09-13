@@ -420,6 +420,11 @@ footer {
         text-align: center;
     }
 
+	.Estatistic iframe {
+        width: 90vw;
+        height: 25vh;
+    }
+
     .Contacto {
         display: flex;
         flex-direction: column;
