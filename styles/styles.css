@@ -206,14 +206,15 @@ main h1 {
 .News {
 	
     padding: 0 5%;
-	
+	display: flex;
+	align-items: center;
 }
 
-.News iframe {
+/*.News iframe {
 	
     text-align: center;
 	
-}
+}*/
 
 .Estatistic h2 {
     font-size: x-large;
