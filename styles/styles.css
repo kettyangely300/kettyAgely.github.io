@@ -211,6 +211,12 @@ main h1 {
 	align-items: center;
 }
 
+.CicleArea {
+    display: flex;
+    width: 100%;
+    padding: 10px 0px;
+}
+
 .Circle {
     width: 17rem;
 	height: 17rem;
