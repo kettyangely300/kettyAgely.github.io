@@ -204,11 +204,31 @@ main h1 {
 }
 
 .News {
-	
-    padding: 0 5%;
+	width: 80%;
+    /*padding: 0 5%;*/
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+}
+
+.Circle {
+    width: 17rem;
+	height: 17rem;
+	border-radius: 50%;
+	background: rgb(103, 20, 205);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+    margin:0px auto;
+    padding:3%
+}
+
+.Circle > p {
+	font-family: sans-serif;
+	color: white;
+	font-size: 0.8rem;
+	/*font-weight: bold;*/
 }
 
 /*.News iframe {
@@ -467,9 +487,40 @@ footer {
         height: 50%;
     }
 
+	.News {
+        width: 100%;
+        /*padding: 0 5%;*/
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
 	.News iframe {
         width: 90vw;
         height: 25vh;
+    }
+	.CicleArea {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .Circle {
+        width: 20rem;
+        height: 20rem;
+        border-radius: 50%;
+        background: rgb(103, 20, 205);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin:0px auto;
+        padding:3%;
+        margin: 10px 0px
+    }
+
+    .Circle > p {
+        font-size: 0.7rem;
     }
 
     footer {
